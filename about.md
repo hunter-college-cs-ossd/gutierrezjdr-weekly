@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My love for video games inspired me to pursue computer science. Both of them use tools to solve problems and they have both taught me perseverence despite all obstacles. 
 
